@@ -28,3 +28,4 @@ Follow the instructions below to complete your app.
 ![Updated Profile page](/images/p2_final.png)
 
 To submit your practical, remember to commit the changes and push to remote repository.
+
